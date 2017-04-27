@@ -9,8 +9,14 @@ DataScience Study Club for non-science, non-engineering major students
   ​
 
 
-
 Study Diary(Learning contents)
+
+- 14th(2017.04.27)
+  - Math 6: Matrix differentiation, Gradient Vector
+  - Matplotlib: Draw function graph, contor plot, quiver polt
+  - symbolic operation with sympy
+  - LaTeX usage in Typora, Jupyter Notebook, SymPy
+
 
 - 13th(2017.04.21)
   - Math 5: fuction differentiation
