@@ -11,9 +11,14 @@ DataScience Study Club for non-science, non-engineering major students
 
 Study Diary(Learning contents)
 
+- 15th(2017.05.03)
+  - Math 7: Matrix differentiation 2
+  - Matplotlib 2: Draw line and pie chart, histogram, plot styling
+
+
 - 14th(2017.04.27)
-  - Math 6: Matrix differentiation, Gradient Vector
-  - Matplotlib: Draw function graph, contor plot, quiver polt
+  - Math 6: Matrix differentiation 1, Gradient Vector
+  - Matplotlib 1: Draw function graph, contor plot, quiver plot
   - symbolic operation with sympy
   - LaTeX usage in Typora, Jupyter Notebook, SymPy
 
@@ -56,3 +61,4 @@ Study Diary(Learning contents)
   - Read articles about Data Science
   - R/Python basic
   - Complete all Codecademy Python course
+
