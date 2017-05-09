@@ -11,6 +11,11 @@ DataScience Study Club for non-science, non-engineering major students
 
 Study Diary(Learning contents)
 
+- 16th(2017.05.09)
+  - Math 8: Optimization basic, SGD(Steepest Gradient Descent, Train Classifier(Learning Rate)
+  - Matplotlib 3: Double bar chart, scatter plot, imshow plot(2017.05.10)
+
+
 - 15th(2017.05.03)
   - Math 7: Matrix differentiation 2
   - Matplotlib 2: Draw line and pie chart, histogram, plot styling
