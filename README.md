@@ -14,6 +14,10 @@ Study Diary(Learning contents)
 - 16th(2017.05.09)
   - Math 8: Optimization basic, SGD(Steepest Gradient Descent, Train Classifier(Learning Rate)
   - Matplotlib 3: Double bar chart, scatter plot, imshow plot(2017.05.10)
+  - Article introduction
+    : [Dauphin, Yann N., et al. "Identifying and attacking the saddle point problem in high-dimensional non-convex optimization." *Advances in neural information processing systems*. 2014.](https://arxiv.org/abs/1406.2572)
+    - Give an insight about local minima problem
+    - Suggest optimization algorithm in the high dimensional spaces near saddle point
 
 
 - 15th(2017.05.03)
