@@ -1,4 +1,4 @@
-# Study Club for DataScience(2017.02.11 ~ )
+# Study Club for DataScience(2017.02. ~ 2017.10.)
 
 > Please visit [Wiki](https://github.com/shinys825/HYStudy/wiki/Study-Diary) to read study diary and learning contents
 
